@@ -85,17 +85,19 @@ def train_model(suriya, X_train, y_train, criterion, optimizer, epochs=2000):
 ```
 ## Dataset Information
 
-Include screenshot of the dataset
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/52a29fc5-2c6b-4bb6-ae85-050a6b069fb7" />
+
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+<img width="697" height="556" alt="image" src="https://github.com/user-attachments/assets/0583f407-f1a8-48f6-a2a7-6a96a9a2a506" />
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+<img width="894" height="136" alt="image" src="https://github.com/user-attachments/assets/6b471662-673d-4f75-a90c-2ac6c69e438b" />
+
 
 ## RESULT
 
