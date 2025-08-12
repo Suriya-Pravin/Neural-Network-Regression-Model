@@ -101,4 +101,4 @@ def train_model(suriya, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ## RESULT
 
-Include your result here
+Thus, a neural network regression model for the given dataset is successfully developed.
